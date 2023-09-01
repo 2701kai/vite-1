@@ -40,9 +40,8 @@ const App: React.FC = () => {
   Back to Portfolio1
 </button>
       </p>
-      <p>
-        Blazingly fast.. kai loves it. Expect more to come.
-      </p>
+      <p>Blazingly fast.. kai loves it.</p>
+      <p>Expect more to come.</p>
       <p>
         <a
           className="App-link"
